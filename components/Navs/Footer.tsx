@@ -1,9 +1,6 @@
 import React from 'react'
 import Container from '../Container'
-import SocialX from "@/assets/social-x.svg"
-import SocialInsta  from "@/assets/social-insta.svg"
-import SocialLinkdein from "@/assets/social-linkedin.svg"
-import SocialPin from "@/assets/social-pin.svg"
+
 import Base from '../Icons/Base'
 
 const Footer = () => {
